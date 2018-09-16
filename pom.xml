@@ -6,7 +6,12 @@
 
     <groupId>breath-maven-plugin</groupId>
     <artifactId>breath-maven-plugin-parent</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>breath-maven-plugin</module>
+        <module>sample</module>
+    </modules>
 
 
 </project>

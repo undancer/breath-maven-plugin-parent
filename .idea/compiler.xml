@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="breath-maven-plugin-parent" />
+        <module name="breath-maven-plugin" />
+        <module name="sample" />
       </profile>
     </annotationProcessing>
   </component>
